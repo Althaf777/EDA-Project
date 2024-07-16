@@ -1,4 +1,4 @@
-# EDA-Project-Explanatory data analysis of bank customer data
+# EDA-Project
 # Problem Statement:
 Provide some visual insights of numerical and categorical variables present in the data.
 # Libraries
